@@ -1,6 +1,3 @@
-Claro, aqui está o texto corrigido:
-
-```markdown
 # Resumo de Pedidos de Pizzaria via WhatsApp
 
 Este é um projeto que automatiza o processo de resumo de pedidos recebidos via WhatsApp, utilizando a biblioteca `whatsapp-web.js` e a API do OpenAI.
@@ -56,6 +53,3 @@ Neste exemplo, o cliente enviou uma mensagem com seu pedido, e o bot respondeu c
 ## Contribuição
 
 Contribuições são bem-vindas! Se você encontrar algum problema ou tiver sugestões de melhorias, sinta-se à vontade para abrir uma issue ou enviar um pull request.
-```
-
-Este texto corrige a mistura e torna as instruções mais claras e precisas.
