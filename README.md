@@ -16,7 +16,7 @@ Antes de executar este projeto, você precisará ter instalado o Node.js e confi
 
 ```
 
-git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/fathos82/GPT-Order-Summarizer.git)
+git clone https://github.com/fathos82/GPT-Order-Summarizer.git
 ```
 
 2. Instale as dependências:
